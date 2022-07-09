@@ -26,5 +26,6 @@ Usando o GitBash digite:
 
 git init - para inicializar 
 git commit -m "inclusão das anotações do curso de Git/GitHub"
+git add .
 git status
 git push origin main -(para enviar tudo que estiver na maquina para o repositório)
