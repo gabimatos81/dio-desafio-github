@@ -1,0 +1,30 @@
+Abrir o GitHub e clicar:
+
+Novo repositório
+Repository name
+Description
+Public
+Add a README file
+Create repository
+
+OBS: Você pode editar o repositório e dar um commit changes para alterar o repositório.
+
+Enviando o repositório para  a máquina:
+
+Clicar em "code" e copiar o link HTTPS
+
+Na máquina, abrir a pasta ou criar uma caso não tenha.
+Com a pasta aberta, clicar com botão direito do mouse  e abrir o GitBash
+
+No GitBash, digite "git clone" + o link HTTPS que você copiou do seu repositório + "Enter".
+
+Git status
+
+Passo a passo para enviar projeto para o GitHub:
+
+Usando o GitBash digite:
+
+git init - para inicializar 
+git commit -m "inclusão das anotações do curso de Git/GitHub"
+git status
+git push origin main -(para enviar tudo que estiver na maquina para o repositório)
